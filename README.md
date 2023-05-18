@@ -1,4 +1,4 @@
-# Proyecto Software 2022-23
+# The Settlers of Catan
 
 Los colonos de Catán (en alemán Die Siedler von Catan), Los descubridores de Catán, o simplemente Catán, es un juego de mesa multijugador inventado por Klaus Teuber. Es probablemente el primer juego de mesa de estilo alemán que ha alcanzado popularidad fuera de Europa, siendo traducido del alemán original a otros idiomas como checo, danés, esloveno, español, francés, griego, húngaro, rumano, inglés, italiano, japonés, noruego, portugués, ruso, hebreo, catalán, euskera y sueco.
 
